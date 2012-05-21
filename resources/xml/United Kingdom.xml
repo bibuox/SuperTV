@@ -482,15 +482,7 @@
 	<epgid>skyuk:1333</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sports_logo.svg/1000px-Sky_Sports_logo.svg.png</logourl>
 	</stream>
-	<stream>
-	<title>Sky Sports 4</title>
-	<link>http://goo.gl/H4byq</link>
-	<language>English</language>
-	<epgid>skyuk:1322</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sky_Sports_logo.svg/1000px-Sky_Sports_logo.svg.png</logourl>
-	</stream>
-	<stream>
-    <title>SkyPoker.com</title>
+	    <title>SkyPoker.com</title>
     <swfUrl>http://www.estadio.in/player.swf</swfUrl>
     <link>rtmp://cp67698.live.edgefcs.net/live</link>
     <pageUrl>http://www.estadio.in/skypoker</pageUrl>
