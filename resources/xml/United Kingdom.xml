@@ -190,18 +190,11 @@
 	<title>More4</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
-	<link>rtmp://69.55.57.86/live97</link>
+	<link>rtmp://69.55.53.11/live95</link>
 	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
-	<playpath>97.low.stream</playpath>
+	<playpath>95.low.stream</playpath>
 	<language>English</language>
 	<advanced>live=1 swfVfy=1</advanced>
-	<backup>
-	  <swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
-  	<link>rtmp://69.55.53.11/live97</link>
-  	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
-  	<playpath>97.high.stream</playpath>
-  	<advanced>live=1 swfVfy=1</advanced>
-  </backup>
 	<epgid>skyuk:3340</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/7/79/More4_logo.svg/1000px-More4_logo.svg.png</logourl>
 	</stream>
@@ -212,110 +205,12 @@
 	<epgid>skyuk:1758</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/1000px-4_Music_logo.svg.png</logourl>
 	</stream>
-	<stream>
-	<title>Sky Action HD</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>z050237.stream</playpath>
+		<stream>
+	<title>Viva</title>
+	<link>http://mi5.gv.filmon.com:1935/live/95.high.stream/playlist.m3u8</link>
 	<language>English</language>
-	<advanced>live=1</advanced>
-	<epgid>skyuk:4014</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1000px-Sky_Movies.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z050237.stream/playlist.m3u8</link>
-	</backup>
-	</stream>
-	<stream>
-	<title>Sky Comedy HD</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>z050231.stream</playpath>
-	<language>English</language>
-	<advanced>live=1</advanced>
-	<epgid>skyuk:4019</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1000px-Sky_Movies.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z050231.stream/playlist.m3u8</link>
-	</backup>
-	</stream>
-	<stream>
-	<title>Sky Drama/Romance HD</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>z050229.stream</playpath>
-	<language>English</language>
-	<advanced>live=1</advanced>
-	<epgid>skyuk:4016</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1000px-Sky_Movies.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z050229.stream/playlist.m3u8</link>
-	</backup>
-	</stream>
-	<stream>
-	<title>Sky Family HD</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>z050234.stream</playpath>
-	<language>English</language>
-	<advanced>live=1</advanced>
-	<epgid>skyuk:4018</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1000px-Sky_Movies.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z050234.stream/playlist.m3u8</link>
-	</backup>
-	</stream>
-	<stream>
-	<title>Sky MDN Greatest HD</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>z050228.stream</playpath>
-	<language>English</language>
-	<advanced>live=1</advanced>
-	<epgid>skyuk:4015</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1000px-Sky_Movies.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z050228.stream/playlist.m3u8</link>
-	</backup>
-	</stream>
-	<stream>
-	<title>Sky SciFi/Horror HD</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>z050230.stream</playpath>
-	<language>English</language>
-	<advanced></advanced>
-	<epgid>skyuk:4017</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1000px-Sky_Movies.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z050230.stream/playlist.m3u8</link>
-	</backup>
-	</stream>
-	<stream>
-	<title>Sky Thriller HD</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>z050236.stream</playpath>
-	<language>English</language>
-	<advanced></advanced>
-	<epgid>skyuk:4062</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/1000px-Sky_Movies.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z050236.stream/playlist.m3u8</link>
-	</backup>
+	<epgid>skyuk:1758</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/1000px-4_Music_logo.svg.png</logourl>
 	</stream>
 	<stream>
 	<title>Sky Arts 1</title>
