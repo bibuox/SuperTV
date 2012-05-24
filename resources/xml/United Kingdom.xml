@@ -114,12 +114,12 @@
 	<stream>
 	<title>ITV2 HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>z020102.stream</playpath>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
+	<link>rtmp://69.55.53.11/live67</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>67.low.stream</playpath>
 	<language>English</language>
-	<advanced>live=1</advanced>
+	<advanced>live=1 swfVfy=1</advanced>
 	<epgid>skyuk:6532</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/3/3c/ITV2_HD.svg/1000px-ITV2_HD.svg.png</logourl>
 	<backup>
