@@ -40,6 +40,74 @@
 	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/BBC_Two.svg/1000px-BBC_Two.svg.png</logourl>
 	</stream>
 	<stream>
+	<title>ITV1</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
+	<link>rtmp://69.55.53.11/live11</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>11.low.stream</playpath>
+	<language>English</language>
+	<advanced>live=1 swfVfy=1</advanced>
+	<backup>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
+  	<link>rtmp://69.55.53.11/live11</link>
+  	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+  	<playpath>11.high.stream</playpath>
+  	<advanced>live=1 swfVfy=1</advanced>
+  </backup>
+	<epgid>skyuk:6000</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/ITV1.svg/1000px-ITV1.svg.png</logourl>
+	</stream>
+	<stream>
+	<title>ITV2</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
+	<link>rtmp://69.55.53.11/live67</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>67.low.stream</playpath>
+	<language>English</language>
+	<advanced>live=1 swfVfy=1</advanced>
+	<epgid>skyuk:6532</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/3/3c/ITV2_HD.svg/1000px-ITV2_HD.svg.png</logourl>
+	<backup>
+	  <link>http://tv.futubox.com:1935/live/z020102.stream/playlist.m3u8</link>
+	</backup>
+	</stream>
+	<stream>
+	<title>ITV3</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
+	<link>rtmp://69.55.53.11/live26</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>26.low.stream</playpath>
+	<language>English</language>
+	<advanced>live=1 swfVfy=1</advanced>
+	<epgid>skyuk:6533</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1000px-ITV3_HD.svg.png</logourl>
+	<backup>
+	  <link>http://tv.futubox.com:1935/live/z020103.stream/playlist.m3u8</link>
+	</backup>
+	</stream>
+	<stream>
+	<title>ITV4</title>
+	<info resolution="768x420" bitrate="1000kbps"/>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
+	<link>rtmp://69.55.53.11/live101</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>101.low.stream</playpath>
+	<language>English</language>
+	<advanced>live=1 swfVfy=1</advanced>
+	<backup>
+	  <swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
+  	<link>rtmp://69.55.53.11/live101</link>
+  	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+  	<playpath>101.high.stream</playpath>
+  	<advanced>live=1 swfVfy=1</advanced>
+  </backup>
+	<epgid>skyuk:6272</epgid>
+	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/4/43/ITV4.svg/1000px-ITV4.svg.png</logourl>
+	</stream>
+	<stream>
 	<title>Channel 4</title>
   <info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
@@ -76,75 +144,6 @@
   </backup>
 	<epgid>skyuk:1801</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/1000px-Channel_5_logo_2011.svg.png</logourl>
-	</stream>
-
-	<stream>
-	<title>ITV1</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
-	<link>rtmp://69.55.53.11/live11</link>
-	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
-	<playpath>11.low.stream</playpath>
-	<language>English</language>
-	<advanced>live=1 swfVfy=1</advanced>
-	<backup>
-	  <swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
-  	<link>rtmp://69.55.53.11/live11</link>
-  	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
-  	<playpath>11.high.stream</playpath>
-  	<advanced>live=1 swfVfy=1</advanced>
-  </backup>
-	<epgid>skyuk:6000</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/ITV1.svg/1000px-ITV1.svg.png</logourl>
-	</stream>
-	<stream>
-	<title>ITV2</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
-	<link>rtmp://69.55.53.11/live67</link>
-	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
-	<playpath>67.low.stream</playpath>
-	<language>English</language>
-	<advanced>live=1 swfVfy=1</advanced>
-	<epgid>skyuk:6532</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/3/3c/ITV2_HD.svg/1000px-ITV2_HD.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z020102.stream/playlist.m3u8</link>
-	</backup>
-	</stream>
-	<stream>
-	<title>ITV3 HD</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
-	<link>rtmp://69.55.53.11/live26</link>
-	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
-	<playpath>26.low.stream</playpath>
-	<language>English</language>
-	<advanced>live=1 swfVfy=1</advanced>
-	<epgid>skyuk:6533</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1000px-ITV3_HD.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z020103.stream/playlist.m3u8</link>
-	</backup>
-	</stream>
-	<stream>
-	<title>ITV4</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
-	<link>rtmp://69.55.53.11/live101</link>
-	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
-	<playpath>101.low.stream</playpath>
-	<language>English</language>
-	<advanced>live=1 swfVfy=1</advanced>
-	<backup>
-	  <swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
-  	<link>rtmp://69.55.53.11/live101</link>
-  	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
-  	<playpath>101.high.stream</playpath>
-  	<advanced>live=1 swfVfy=1</advanced>
-  </backup>
-	<epgid>skyuk:6272</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/4/43/ITV4.svg/1000px-ITV4.svg.png</logourl>
 	</stream>
 	<stream>
 	<title>Dave</title>
