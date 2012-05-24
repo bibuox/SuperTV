@@ -77,21 +77,7 @@
 	<epgid>skyuk:1801</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Channel_5_logo_2011.svg/1000px-Channel_5_logo_2011.svg.png</logourl>
 	</stream>
-<stream>
-	<title>BBC HD</title>
-	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>z010201.stream</playpath>
-	<language>English</language>
-	<advanced>live=1</advanced>
-	<epgid>skyuk:2075</epgid>
-	<logourl>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/BBC_HD.svg/1000px-BBC_HD.svg.png</logourl>
-	<backup>
-	  <link>http://tv.futubox.com:1935/live/z010201.stream/playlist.m3u8</link>
-	</backup>
-	</stream>
+
 	<stream>
 	<title>ITV1</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
@@ -112,7 +98,7 @@
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/ITV1.svg/1000px-ITV1.svg.png</logourl>
 	</stream>
 	<stream>
-	<title>ITV2 HD</title>
+	<title>ITV2</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
 	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
 	<link>rtmp://69.55.53.11/live67</link>
@@ -129,12 +115,12 @@
 	<stream>
 	<title>ITV3 HD</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>z020103.stream</playpath>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
+	<link>rtmp://69.55.53.11/live26</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>26.low.stream</playpath>
 	<language>English</language>
-	<advanced>live=1</advanced>
+	<advanced>live=1 swfVfy=1</advanced>
 	<epgid>skyuk:6533</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/1000px-ITV3_HD.svg.png</logourl>
 	<backup>
@@ -187,14 +173,14 @@
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/4/49/Film4.svg/1000px-Film4.svg.png</logourl>
 	</stream>
 	<stream>
-	<title>E4 HD</title>
+	<title>E4</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://www.futubox.com/]]></pageUrl>
-	<playpath>z050233.stream</playpath>
+	<swfUrl>http://www.filmon.com/tv/modules/FilmOnTV/files/flashapp/filmon/FilmonPlayer.swf?v=f</swfUrl>
+	<link>rtmp://69.55.53.11/live65</link>
+	<pageUrl><![CDATA[http://www.filmon.com/htmlmain]]></pageUrl>
+	<playpath>65.low.stream</playpath>
 	<language>English</language>
-	<advanced>live=1</advanced>
+	<advanced>live=1 swfVfy=1</advanced>
 	<epgid>skyuk:1628</epgid>
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1000px-E4_%28channel%29_logo.svg.png</logourl>
 	<backup>
@@ -448,12 +434,11 @@
 	<logourl>http://upload.wikimedia.org/wikipedia/en/thumb/9/93/Euronews_logo.svg/1000px-Euronews_logo.svg.png</logourl>
 	</stream>
 	<stream>
-	<title>Sky Sports HD1</title>
+	<title>Sky Sports 1</title>
 	<info resolution="768x420" bitrate="1000kbps"/>
-	<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-	<link>rtmp://tv.futubox.com/live</link>
-	<pageUrl><![CDATA[http://futubox.com]]></pageUrl>
-	<playpath>z050226.stream</playpath>
+	<swfUrl>http://www.gh-osting.com/player3.swf</swfUrl>
+	<link>//109.202.98.44/live/skysport01</link>
+	<pageUrl>http://www.superlivetv.net/</pageUrl>
 	<language>English</language>
 	<advanced>live=1</advanced>
 	<epgid>skyuk:4002</epgid>
